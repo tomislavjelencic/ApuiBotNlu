@@ -6,7 +6,7 @@ Bot Framework v4
 
 ### Install .NET Core
 
-- [.NET Core SDK](https://dotnet.microsoft.com/download) version 3.1
+- [.NET Core SDK](https://dotnet.microsoft.com/download/dotnet/3.1) version 3.1
 
 ### Create a LUIS Application for NLU
 
